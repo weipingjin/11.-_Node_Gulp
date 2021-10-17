@@ -1,0 +1,1 @@
+console.log("index文件执行。");
